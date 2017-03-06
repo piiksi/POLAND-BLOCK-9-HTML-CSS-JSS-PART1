@@ -1,0 +1,70 @@
+.body_wrapper{
+    width: 800px;
+    height: 750px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    font-family: 'Bangers', cursive;
+    border-style: outset;
+}
+.header_wrapper{
+    width: 800px;
+    height: 150px;
+    background-color: crimson;
+    margin-top: -26px;
+}
+.header_wrapper h1{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+.content_wrapper button {
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    background-color: gainsboro;
+    height: 50px;
+    font-family: 'Delius', cursive;
+}
+.content_wrapper button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.content_wrapper ol{
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 130px;
+    font-size: 20px;
+    font-family: 'Delius', cursive;
+    list-style-position: inside;
+    text-align: justify;
+}
+.content_wrapper ol li {
+  
+}
+
+.one {
+    list-style-image: url(images/006-one.png);
+}
+.two {
+    list-style-image: url(images/005-two.png);
+}
+.three {
+    list-style-image: url(images/004-three.png);
+}
+.four {
+    list-style-image: url(images/003-four.png);
+}
+.five {
+    list-style-image: url(images/002-five.png);
+}
+.six {
+    list-style-image: url(images/001-six.png);
+}
+.footer{
+    text-align: center;
+    width: 800px;
+    height: auto;
+    background-color: gainsboro;
+    margin-top: 65px;
+}
+
