@@ -65,6 +65,8 @@
     width: 800px;
     height: auto;
     background-color: gainsboro;
-    margin-top: 65px;
+    margin: 0 auto;
+    border-style: outset;
+    font-family: 'Bangers', cursive;
 }
 
