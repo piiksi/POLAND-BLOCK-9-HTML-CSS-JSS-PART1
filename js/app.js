@@ -1,6 +1,6 @@
 var main = function() {
   $("button").click(function() {
-    $("li").slideToggle();
+    $("li").slideToggle("slow");
     
   });
 };
