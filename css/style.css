@@ -37,6 +37,7 @@
     font-family: 'Delius', cursive;
     list-style-position: inside;
     text-align: justify;
+    display: none;
 }
 .content_wrapper ol li {
   
